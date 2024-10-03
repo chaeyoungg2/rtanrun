@@ -30,7 +30,7 @@ defeatSound.src = "./sounds/defeat1.mp3";
 /** 이미지 객체 생성 및 설정 */
 // (1) 배경
 const bgImage = new Image();
-bgImage.src = "./images/background.png";
+bgImage.src = "./images/image_fx_.jpg";
 // (2) 게임 시작
 const startImage = new Image();
 startImage.src = "./images/gamestart.png";
